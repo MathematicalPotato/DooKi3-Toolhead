@@ -22,3 +22,6 @@ There are currently parts to make these plates compatible with the mirrored vers
 
 #### Annex Engineering Double Folded Ascender
 ![DFA_1](Images/DFA_1.png)
+
+### Licensing
+See the Annex Engineering License Agreement here: [https://github.com/Annex-Engineering/ANNEX-Engineering-License-Agreement](https://github.com/Annex-Engineering/ANNEX-Engineering-License-Agreement)
