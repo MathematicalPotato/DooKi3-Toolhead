@@ -25,3 +25,9 @@ There are currently parts to make these plates compatible with the [Bondtech LGX
 
 ### Licensing
 See the Annex Engineering License Agreement here: [https://github.com/Annex-Engineering/ANNEX-Engineering-License-Agreement](https://github.com/Annex-Engineering/ANNEX-Engineering-License-Agreement)
+
+### Updates
+#### 6/3/2024
+The Dragon Party Plate Topper was missing one of the extruder mount holes.  That files and the CAD have been updated accordingly.  
+
+File names have also been modified to reflect the DooKi3 naming.
